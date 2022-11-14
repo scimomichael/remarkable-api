@@ -94,7 +94,7 @@ module.exports = {
         key: 'one_time_code',
         type: 'string',
         label: 'Remarkable One-time Code',
-        helpText: 'You must register your reMarkable [here].(https://my.remarkable.com/connect/desktop)',
+        helpText: 'You must register your reMarkable [here].(https://my.remarkable.com/device/desktop/connect)',
         required: true,
       },
     ],
